@@ -105,3 +105,5 @@ Landscaping flags, staples, and soil conditions will differ, so your mileage wit
 3. Just like the flagpole cap, you can also place rubber bands in the serrations on the flagpole guide. You may have to add a screw above the guide to anchor the rubber band if it is large. This can be used to reduce the diameter, but it also can provide a gripping force for you to grab the fabric of the flag with to pluck it out of the ground.
 
 ![img config](./img/config_guide.png)
+
+"Thank you so much to MikeD for all of the amazing work translating an inintial rough sketch and notional concept into a brilliant and functional tool!  90% or more of the credit on this one goes to him, hands-down."  ~ Deviant Ollam
