@@ -39,7 +39,7 @@ Supports are likely needed for under the circular feature for the dowel. I would
 
 Print in PETG, ASA, ABS, PC, or other material suited for impact resistance and direct sunlight at a minimum of 20% infill.
 
-![img supports](./.img/stomper-support.png)
+![img supports](./img/stomper-support.png)
 
 ### Flagpole Cap
 
@@ -47,7 +47,7 @@ Print in PETG, ASA, ABS, PC, or other material suited for impact resistance and 
 
 The part should be oriented so that it prints on its tallest axis. It will print better if the serrated feature faces up. No supports should be needed. 
 
-![img supports](./.img/flagpole_cap.png)
+![img supports](./img/flagpole_cap.png)
 
 Print in PETG, ASA, ABS, PC, or other material suited for impact resistance and direct sunlight at a minimum of 20% infill.
 
@@ -59,7 +59,7 @@ The part should be oriented so that it prints on of the two flat faces. It will 
 
 Only 1 piece should be needed, but if you have especially long flags or if the soil is very hard, you may print an additional guide to help with flag placement.
 
-![img supports](./.img/flagpole_guide.png)
+![img supports](./img/flagpole_guide.png)
 
 Print in PETG, ASA, ABS, PC, or other material suited for impact resistance and direct sunlight at a minimum of 20% infill.
 
@@ -71,15 +71,15 @@ For the Staple Stomper, glue 1x 6 x 2mm magnet in the bottom for holding onto st
 
 Glue or place 1x 6 x 10 mm magnet in the dowel hole. When a dowel is installed, it will hold the magnet in if you do not wish to glue it.
 
-![img magnets](./.img/magnets-stomper.png)
+![img magnets](./img/magnets-stomper.png)
 
 For the Flagpole Cap, glue 1x 6 x 10mm in the small diagonal hole on the top of the cap.
 
-![img magnets](./.img/magnet-cap.png)
+![img magnets](./img/magnet-cap.png)
 
 For the Flagpole Guide(s), glue 2x 6 x 2mm magnets in the two circular holes within the V. 
 
-![img magnets](./.img/magnets-guide.png)
+![img magnets](./img/magnets-guide.png)
 
 ### Screw-Up
 
@@ -98,10 +98,10 @@ Landscaping flags, staples, and soil conditions will differ, so your mileage wit
 
 1. For the flagpole cap, you can add rubber bands in the serrations to decrease the diameter or add grip for the flag material.
 
-![img config](./.img/config_cap.png)
+![img config](./img/config_cap.png)
 
 2. The flagpole guide could be used in either orientation. You can line the circular hole, or the V guide up to flagpole cap. You can even print more than 1 guide if you find that your soil is especially tough to insert flags into. 
 
 3. Just like the flagpole cap, you can also place rubber bands in the serrations on the flagpole guide. You may have to add a screw above the guide to anchor the rubber band if it is large. This can be used to reduce the diameter, but it also can provide a gripping force for you to grab the fabric of the flag with to pluck it out of the ground.
 
-![img config](./.img/config_guide.png)
+![img config](./img/config_guide.png)
